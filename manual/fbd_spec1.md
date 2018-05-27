@@ -196,7 +196,7 @@ The following shows the details of the SO pin:
 |#29+30x[tn]||WS4|WS3|WS2|WS1|WS0|"0"|"0"|"0"|
 
 Note
-+ T_ADR means Tone Setting format of Cotents Format(below).
++ T_ADR means Tone Setting format of Contents Format(below).
 + tn: Tone Number(0-15)
 
 
